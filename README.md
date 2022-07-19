@@ -1,4 +1,4 @@
-# 2207-dbc
+# 2207-dbc bootcamp files
 
 Lab files already loaded in the VM:
 
