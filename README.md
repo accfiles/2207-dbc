@@ -2,8 +2,8 @@
 
 Lab files already loaded in the VM:
 
-- https://lib.accelebrate.com/202207_Deloitte/setup/PowerBI.zip
-- https://lib.accelebrate.com/202207_Deloitte/setup/T-SQL.zip
+- https://lib.accelebrate.com/202207_DBC/setup/PowerBI.zip
+- https://lib.accelebrate.com/202207_DBC/setup/T-SQL.zip
 
 Other items to be added later:
 
